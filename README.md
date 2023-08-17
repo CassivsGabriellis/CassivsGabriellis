@@ -9,3 +9,9 @@
 > “Abstraction brings the world into more complex, variable relations; it can extract beauty, alternative topographies, ugliness, and intense actualities from seeming nothingness.”
 
 — Jerry Saltz
+
+Some things that I have done:
+- [A Cryptovote API using Golang and MySQL](https://github.com/CassivsGabriellis/crypto-vote-interface)
+- [Demo of a mini-blockchain system made in Go](https://github.com/CassivsGabriellis/mini-blockchain-in-go)
+- [Project "Quinze" - number combiner for Lotofácil lottery game made using SpringBoot and PostgreSQL](https://github.com/CassivsGabriellis/quinze/tree/cassio)
+- [Simple application that demonstrates the use of Countries Info. and Weather API combined.](https://github.com/CassivsGabriellis/Data-for-countries-api-study)
