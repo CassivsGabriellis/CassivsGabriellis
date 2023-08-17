@@ -14,4 +14,5 @@ Some things that I have done:
 - [A Cryptovote API using Golang and MySQL](https://github.com/CassivsGabriellis/crypto-vote-interface)
 - [Demo of a mini-blockchain system made in Go](https://github.com/CassivsGabriellis/mini-blockchain-in-go)
 - [Project "Quinze" - number combiner for Lotofácil lottery game made using SpringBoot and PostgreSQL](https://github.com/CassivsGabriellis/quinze/tree/cassio)
-- [Simple application that demonstrates the use of Countries Info. and Weather API combined.](https://github.com/CassivsGabriellis/Data-for-countries-api-study)
+- [Consuming Countries Info. and Weather APIs using React](https://github.com/CassivsGabriellis/Data-for-countries-api-study)
+- [Simple fullstack site built using React, Node and MongoDB](https://github.com/CassivsGabriellis/phonebook-fullstack-site)
