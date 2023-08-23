@@ -16,3 +16,6 @@ Some things that I have done:
 - [Project "Quinze" - number combiner for Lotofácil lottery game made using SpringBoot and PostgreSQL](https://github.com/CassivsGabriellis/quinze/tree/cassio)
 - [Consuming Countries Info. and Weather APIs using React](https://github.com/CassivsGabriellis/Data-for-countries-api-study)
 - [Simple fullstack site built using React, Node and MongoDB](https://github.com/CassivsGabriellis/phonebook-fullstack-site)
+
+Open source contributions:
+- [Brazilian Portuguese translation for the Full Stack open course(University of Helsinki)](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/pull/2458)
