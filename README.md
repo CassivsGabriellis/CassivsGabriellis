@@ -10,7 +10,7 @@
 
 — Jerry Saltz
 
-Backend projects and stuff:
+Personal projects and stuff:
 - [A Cryptovote API made using Golang and MySQL](https://github.com/CassivsGabriellis/crypto-vote-interface)
 - [Demo of a mini-blockchain system made in Go](https://github.com/CassivsGabriellis/mini-blockchain-in-go)
 - [Project "Quinze" - number combiner for Lotofácil lottery game made using Java (SpringBoot) and PostgreSQL](https://github.com/CassivsGabriellis/quinze/tree/cassio)
